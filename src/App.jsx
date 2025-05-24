@@ -1,4 +1,4 @@
-import { useHover } from './useHover/useHover.js';
+import { useHover } from './hooks/useHover.js';
 import './App.css';
 
 export default function App() {
